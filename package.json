@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lerna": "^5.1.6"
+  },
+  "name": "monorepo2",
+  "scripts":{
+    "start":"lerna run start"
+  }
+}
