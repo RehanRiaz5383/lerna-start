@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+const App = ()  => {
   return (
     <div>
         <h1>Hello world from dist parent component</h1>
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export {App};

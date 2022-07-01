@@ -1,12 +1,12 @@
 import React from 'react';
- import {Main} from 'dist';
+ import {App} from 'dist';
 
-function App() {
+function MyApp() {
   return (
     <>
-     <Main/> 
+     <App/>
     </>
   );
 }
 
-export default App;
+export default MyApp;
