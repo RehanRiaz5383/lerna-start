@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lerna": "^5.1.6"
+    "@craco/craco": "^6.4.3",
+    "lerna": "^5.1.8"
   },
-  "name": "monorepo2",
-  "scripts":{
-    "start":"lerna run start"
+  "name": "@monorepo2/root",
+  "scripts": {
+    "start": "lerna run start"
   }
 }
